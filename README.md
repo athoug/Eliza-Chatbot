@@ -4,7 +4,7 @@ A clone of the original Eliza chatbot. The bot is named Pixel which is a basic c
 
 ![alt tag](http://i.imgur.com/sccpB4h.png)
 
-#How to set up the environmen:
+#How to set up the environment:
 
 1) Download Lispworks from http://www.lispworks.com/downloads/index.html
 After installing the software, launch the software
