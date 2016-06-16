@@ -3,6 +3,8 @@ Eliza-Chatbot
 
 A clone of the original Eliza chatbot. The bot is named Pixel which is a basic chatbot that resembles the original chatbot ELIZA programmed using the Functional Programing Language LISP.
 
+![alt tag](http://i.imgur.com/sccpB4h.png)
+
 ￼How to set up the environmen:!
 
 1) Download Lispworks from http://www.lispworks.com/downloads/index.html
